@@ -4,3 +4,6 @@ build:
     os: "ubuntu-22.04 LTS"
     tools:
         python: "3.10.4"
+
+sphinx:
+    fail_on_warning: true
